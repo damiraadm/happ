@@ -1,4 +1,4 @@
-My first repository
+Our first commit
 <html>
   <head>
     <b>Nurdana Khalelkyzy</b>
